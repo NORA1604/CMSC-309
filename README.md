@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This is the README.md for the Student Portfolio Activity.
+This is the README.md for the Student Portfolio Activity. You can view the sample here: (https://NORA1604.github.io/CMSC-309/Portfolio)
 
 This repository contains my personal portfolio website. It serves as a showcase of my background, projects, and contact information.
 

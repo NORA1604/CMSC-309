@@ -1,5 +1,7 @@
 # Personal Portfolio Website
 
+This is the README.md for the Student Portfolio Activity.
+
 This repository contains my personal portfolio website. It serves as a showcase of my background, projects, and contact information.
 
 ## 🌐 Features

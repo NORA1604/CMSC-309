@@ -21,27 +21,5 @@ The layout automatically adjusts for tablets and smartphones, ensuring a smooth 
 - **CSS3** (with custom fonts and responsive design)  
 - **JavaScript** for interactivity (copy-to-clipboard, hover animations)  
 
-## 🚀 Setup Instructions
-
-### Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/portfolio.git
-   ```
-2. Navigate into the project folder:
-   ```bash
-   cd portfolio
-   ```
-3. Open `index.html` in your browser.
-
-### Deploy on GitHub Pages
-1. Push your code to a GitHub repository.  
-2. Go to your repository’s **Settings > Pages**.  
-3. Under **Branch**, select `main` (or `master`) and `/root`.  
-4. Click **Save** — your portfolio will be live at:  
-   ```
-   https://YOUR_USERNAME.github.io/portfolio
-   ```
-
 ## 🙏 Credits
 This portfolio was customized and themed by **Nigel Oliver R. Agojo**, based on the original template created by [Nisar Hassan Naqvi](https://github.com/nisarhassan12/portfolio-template).
